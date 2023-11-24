@@ -1,77 +1,102 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sara El Bouch",
+    "label": "Post-doctoral Researcher",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "sara.el-bouch@isae-supaero.fr",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://saraoid4.github.io/",
+    "summary": "Post-doctoral Reasearcher in signal processing, Navigation Radar and Remote sensing team, ISAE-Supaero",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "10 Av. Edouard Belin",
+      "postalCode": "CA 31400",
+      "city": "Toulouse",
+      "countryCode": "France"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linedin",
+        "username": "Sara El Bouch",
+        "url": "https://www.linkedin.com/in/sara-el-bouch-057811136/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "ISAE Supaero",
+      "position": "Post-doctoral Researcher",
+      "startDate": "15-01-2023",
+      "endDate": "Present",
+      "summary": "Post-doctoral reseach in the group Navigation, Radar and Remote Sensing. I work on estimation and detection theory in signal processing with a focus on asymptotic performance of algorithms",
       "highlights": [
-        "Relativity"
+        "Detection, Estimation, Bounds"
       ]
     }
+
   ],
-  "volunteer": [],
+  "teaching": [
+    {
+      "name": "ISAE Supaero",
+      "position": "Temporary teacher",
+      "startDate": "15-01-2023",
+      "endDate": "Present",
+      "summary": "Digital Signal processing courses (TD/TP), Random signal processing courses (TD/TP)",
+    }
+    {
+       "name": "Grenoble-INP Phelma",
+       "position": "Temporary teacher",
+       "startDate": "01-10-2019",
+       "endDate": "01-12-2022",
+       "summary": "156 hours of C programming, Data Science for Geoscience, Image processing",
+     }
+  ],
+  "supervision": [
+    {
+      "name": "GIPSA-Lab",
+      "position": "Supervisor",
+      "startDate": "01-02-2021",
+      "endDate": "01-08-2021",
+      "summary": "I supervised a six-month internship of an Engineer student on the use of Machine learning theory for detecting weak seismic activity",
+    }
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Grenoble Alples, Gipsa-lab",
+      "area": "Signal processing",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "01-10-2019",
+      "endDate": "16-12-2022",
+    }
+    {
+      "institution": "Grenoble-INP Phelma",
+      "area": "Signal processing",
+      "studyType": "Engineering degree",
+      "startDate": "01-01-2016",
+      "endDate": "01-01-2019",
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "EEATS Award: Best Interdisciplinary PhD",
+      "date": "16-12-2023",
+      "awarder": "Doctoral School EEATS",
+    }
+    {
+      "title": "Grenoble-INP Alumni Award: Best Engineer Internship",
+      "date": "01-09-2019",
+      "awarder": "Grenoble-INP Engineering School Alumni",
     }
   ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
+  "publications": ["url": "https://scholar.google.com/citations?user=cmkqP7IAAAAJ&hl=fr"],
+  "skills": ["Python", "MATLAB/Simulink","R","LaTeX" ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
     }
   ],
-  "interests": [],
-  "references": [],
-  "projects": []
 }
