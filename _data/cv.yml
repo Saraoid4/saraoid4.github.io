@@ -4,9 +4,9 @@
     - name: Full Name
       value: Sara El Bouch
     - name: Contact
-      value: sara.el-bouch@isae-supaero.fr
+      value: sara.el-bouch@univ-cotedazur.fr
     - name: Languages
-      value: French, English
+      value: French, English, Arabic
 
 - title: Education
   type: time_table
@@ -29,7 +29,7 @@
   contents:
     - title: Temporary teacher
       institution: ISAE Supaero, Toulouse, France
-      year: 2023
+      year: 2023 - 2024
       description:
         - title: Signal processing courses (TD/TP)
           contents:
@@ -50,7 +50,7 @@
   contents:
     - year: 2023
       items:
-        - Doctoral School EEATS Award, Best Interdisciplinary PhD
+        - Doctoral School EEATS Award.
 
 - title: Academic Interests
   type: nested_list
@@ -59,7 +59,6 @@
       items:
         - Detection Algorithms based on Higher-Order Statistics.
         - Bayesian filtering Algorithms.
-        - Computable Deterministic/Bayesian error-bounds on Lie groups.
 
 - title: Other Interests
   type: list
