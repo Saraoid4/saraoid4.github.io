@@ -22,8 +22,8 @@ related_publications: algebrelineairepourtous, algebrelineaire
     <ul>
         <li><strong>Chapitre 0</strong>: Bases de l'algèbre linéaire</li>
         <li><strong>Chapitre 1</strong>: Applications linéaires et matrices</li>
-        <li><strong>Chapitre 2</strong>: Espaces Euclidiens</li>
-        <li><strong>Chapitre 3</strong>: Système des équations linéaires</li>
+        <li><strong>Chapitre 2</strong>: Système des équations linéaires</li>
+        <li><strong>Chapitre 3</strong>: Espaces Euclidiens</li>
     </ul>
 
     <!-- PDF Links -->
@@ -35,6 +35,11 @@ related_publications: algebrelineairepourtous, algebrelineaire
     <div class="text-center mt-3">
         <a href="/assets/pdf/cours1.pdf" class="btn btn-primary" target="_blank">
             Télécharger le PDF du Chapitre 1
+        </a>
+    </div>
+    <div class="text-center mt-3">
+        <a href="/assets/pdf/TD1.pdf" class="btn btn-primary" target="_blank">
+            Télécharger la série des TDs
         </a>
     </div>
 </div>
