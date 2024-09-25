@@ -42,4 +42,14 @@ related_publications: algebrelineairepourtous, algebrelineaire
             Télécharger la série des TDs
         </a>
     </div>
+    <div class="text-center mt-3">
+        <a href="/assets/pdf/corrigé_TD1.pdf" class="btn btn-primary" target="_blank">
+            Télécharger le corrigé des TDs
+        </a>
+    </div>
+    <div class="text-center mt-3">
+        <a href="/assets/pdf/cours3-2.pdf" class="btn btn-primary" target="_blank">
+            Télécharger le PDF du Chapitre 2
+        </a>
+    </div>
 </div>
