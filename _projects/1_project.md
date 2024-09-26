@@ -52,4 +52,9 @@ related_publications: algebrelineairepourtous, algebrelineaire
             Télécharger le PDF du Chapitre 2
         </a>
     </div>
+    <div class="text-center mt-3">
+        <a href="/assets/pdf/TD2.pdf" class="btn btn-primary" target="_blank">
+            Télécharger la série des TDs
+        </a>
+    </div>
 </div>
