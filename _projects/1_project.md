@@ -57,4 +57,9 @@ related_publications: algebrelineairepourtous, algebrelineaire
             Télécharger la série des TDs
         </a>
     </div>
+    <div class="text-center mt-3">
+        <a href="/assets/pdf/Examen_Blanc.pdf" class="btn btn-primary" target="_blank">
+            Télécharger l'examen blanc
+        </a>
+    </div>
 </div>
