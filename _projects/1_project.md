@@ -62,4 +62,9 @@ related_publications: algebrelineairepourtous, algebrelineaire
             Télécharger l'examen blanc
         </a>
     </div>
+    <div class="text-center mt-3">
+        <a href="/assets/pdf/Corrigé_Examen_Blanc.pdf" class="btn btn-primary" target="_blank">
+            Télécharger le corrigé l'examen blanc
+        </a>
+    </div>
 </div>
