@@ -53,18 +53,13 @@ related_publications: algebrelineairepourtous, algebrelineaire
         </a>
     </div>
     <div class="text-center mt-3">
-        <a href="/assets/pdf/TD2.pdf" class="btn btn-primary" target="_blank">
-            Télécharger la série des TDs
+        <a href="/assets/pdf/Td2X.pdf" class="btn btn-primary" target="_blank">
+            Télécharger la série des TD2 et son corrigé.
         </a>
     </div>
     <div class="text-center mt-3">
-        <a href="/assets/pdf/Examen_Blanc.pdf" class="btn btn-primary" target="_blank">
-            Télécharger l'examen blanc
-        </a>
-    </div>
-    <div class="text-center mt-3">
-        <a href="/assets/pdf/Corrigé_Examen_Blanc.pdf" class="btn btn-primary" target="_blank">
-            Télécharger le corrigé l'examen blanc
+        <a href="/assets/pdf/Corrigé_Examen_blanc.pdf" class="btn btn-primary" target="_blank">
+            Télécharger l'examen blanc et son corrigé.
         </a>
     </div>
 </div>
