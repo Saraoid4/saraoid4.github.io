@@ -27,39 +27,23 @@ related_publications: algebrelineairepourtous, algebrelineaire
     </ul>
 
     <!-- PDF Links -->
-    <div class="text-center mt-3">
-        <a href="/assets/pdf/cours0.pdf" class="btn btn-primary" target="_blank">
-            Télécharger le PDF du Chapitre 0
-        </a>
-    </div>
-    <div class="text-center mt-3">
-        <a href="/assets/pdf/cours1.pdf" class="btn btn-primary" target="_blank">
-            Télécharger le PDF du Chapitre 1
-        </a>
-    </div>
-    <div class="text-center mt-3">
-        <a href="/assets/pdf/TD1.pdf" class="btn btn-primary" target="_blank">
-            Télécharger la série des TDs
-        </a>
-    </div>
-    <div class="text-center mt-3">
-        <a href="/assets/pdf/corrigé_TD1.pdf" class="btn btn-primary" target="_blank">
-            Télécharger le corrigé des TDs
-        </a>
-    </div>
-    <div class="text-center mt-3">
-        <a href="/assets/pdf/cours3-2.pdf" class="btn btn-primary" target="_blank">
-            Télécharger le PDF du Chapitre 2
-        </a>
-    </div>
-    <div class="text-center mt-3">
-        <a href="/assets/pdf/Td2X.pdf" class="btn btn-primary" target="_blank">
-            Télécharger la série des TD2 et son corrigé.
-        </a>
-    </div>
-    <div class="text-center mt-3">
-        <a href="/assets/pdf/Corrigé_Examen_blanc.pdf" class="btn btn-primary" target="_blank">
-            Télécharger l'examen blanc et son corrigé.
-        </a>
+    <div class="row text-center mt-5">
+        <div class="col-md-6">
+            <ul class="list-unstyled">
+                <li><a href="/assets/pdf/cours0.pdf">Chapitre 0 - PDF</a></li>
+                <li><a href="/assets/pdf/cours1.pdf">Chapitre 1 - PDF</a></li>
+                <li><a href="/assets/pdf/cours3-2.pdf">Chapitre 2 - PDF</a></li>
+                <li><a href="/assets/pdf/cours3-3.pdf">Chapitre 3 - PDF</a></li>
+            </ul>
+        </div>
+        <div class="col-md-6">
+            <ul class="list-unstyled">
+                <li><a href="/assets/pdf/TD1.pdf">Série TD1 - PDF</a></li>
+                <li><a href="/assets/pdf/corrigé_TD1.pdf">Corrigé TD1 - PDF</a></li>
+                <li><a href="/assets/pdf/Td2X.pdf">Série TD2 et corrigé - PDF</a></li>
+                <li><a href="/assets/pdf/Corrigé_Examen_blanc.pdf">Examen blanc et corrigé - PDF</a></li>
+            </ul>
+        </div>
     </div>
 </div>
+
