@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L3 électronique
-description: Outils mathématiques pour l'électronique
+description: Algèbre linéaire
 img: assets/img/al-khwarizmi.jpg
 importance: 1
 category: Courses
@@ -42,6 +42,7 @@ related_publications: algebrelineairepourtous, algebrelineaire
                 <li><a href="/assets/pdf/corrigé_TD1.pdf">Corrigé TD1 - PDF</a></li>
                 <li><a href="/assets/pdf/Td2X.pdf">Série TD2 et corrigé - PDF</a></li>
                 <li><a href="/assets/pdf/Corrigé_Examen_blanc.pdf">Examen blanc et corrigé - PDF</a></li>
+                <li><a href="/assets/pdf/Td3X.pdf">Série TD3 et corrigé - PDF</a></li>
             </ul>
         </div>
     </div>
