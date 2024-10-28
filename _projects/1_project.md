@@ -33,7 +33,7 @@ related_publications: algebrelineairepourtous, algebrelineaire
                 <li><a href="/assets/pdf/cours0.pdf">Chapitre 0 - PDF</a></li>
                 <li><a href="/assets/pdf/cours1.pdf">Chapitre 1 - PDF</a></li>
                 <li><a href="/assets/pdf/cours3-2.pdf">Chapitre 2 - PDF</a></li>
-                <li><a href="/assets/pdf/cours3-3.pdf">Chapitre 3 - PDF</a></li>
+                <li><a href="/assets/pdf/cours3.pdf">Chapitre 3 - PDF</a></li>
             </ul>
         </div>
         <div class="col-md-6">
