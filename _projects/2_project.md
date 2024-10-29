@@ -37,6 +37,7 @@ related_publications:
         <div class="col-md-6">
             <ul class="list-unstyled">
                 <li><a href="/assets/pdf/Td1CX.pdf">Série TD1 - PDF</a></li>
+                <li><a href="/assets/pdf/TD1_corr.pdf">Corrigé TD1 - PDF</a></li>
             </ul>
         </div>
     </div>
