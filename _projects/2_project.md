@@ -32,6 +32,7 @@ related_publications:
         <div class="col-md-6">
             <ul class="list-unstyled">
                 <li><a href="/assets/pdf/analyse_complexe.pdf">Slides - PDF</a></li>
+                <li><a href="/assets/pdf/exemple_calcul_integral.pdf">Exemple Calcul intégral - PDF</a></li>
             </ul>
         </div>
         <div class="col-md-6">
