@@ -31,18 +31,21 @@ related_publications: algebrelineairepourtous, algebrelineaire
         <div class="col-md-6">
             <ul class="list-unstyled">
                 <li><a href="/assets/pdf/cours0.pdf">Chapitre 0 - PDF</a></li>
+                <!--
                 <li><a href="/assets/pdf/cours1.pdf">Chapitre 1 - PDF</a></li>
                 <li><a href="/assets/pdf/cours3-2.pdf">Chapitre 2 - PDF</a></li>
                 <li><a href="/assets/pdf/cours3.pdf">Chapitre 3 - PDF</a></li>
+                -->
             </ul>
         </div>
         <div class="col-md-6">
             <ul class="list-unstyled">
                 <li><a href="/assets/pdf/TD1.pdf">Série TD1 - PDF</a></li>
-                <li><a href="/assets/pdf/corrigé_TD1.pdf">Corrigé TD1 - PDF</a></li>
+               <!--> <li><a href="/assets/pdf/corrigé_TD1.pdf">Corrigé TD1 - PDF</a></li>
                 <li><a href="/assets/pdf/Td2X.pdf">Série TD2 et corrigé - PDF</a></li>
                 <li><a href="/assets/pdf/Corrigé_Examen_blanc.pdf">Examen blanc et corrigé - PDF</a></li>
                 <li><a href="/assets/pdf/Td3X.pdf">Série TD3 et corrigé - PDF</a></li>
+                -->
             </ul>
         </div>
     </div>
