@@ -50,7 +50,6 @@ related_publications: algebrelineairepourtous, algebrelineaire
         </div>
     </div>
     <!-- References Section -->
-    <h2 class="mt-5">Pour aller plus loin:</h2>
     <h2 class="mt-5">Références</h2>
     <ul>
         <li>
