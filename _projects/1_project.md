@@ -14,7 +14,7 @@ related_publications: algebrelineairepourtous, algebrelineaire
 
     <!-- Description -->
     <p class="mt-5">
-        Ce cours vous guidera à travers les concepts fondamentaux des mathématiques. Assurez-vous de bien maîtriser chaque section pour progresser efficacement dans votre apprentissage. Pour mieux suivre le cours : les diapositives (ou slides) seront mises à votre disposition à la fin de chaque chapitre. Je vous conseille de bien prendre en note les exemples que j'écrirai au tableau, car ils ne figureront pas dans les diapositives. Enfin, les devoirs à rendre devront être soumis à la fin de chaque chapitre.
+        Ce cours vous guidera à travers les concepts fondamentaux des mathématiques. Assurez-vous de bien maîtriser chaque section pour progresser efficacement dans votre apprentissage. Pour mieux suivre le cours : les diapositives (ou slides) seront mises à votre disposition à la fin de chaque chapitre. Je vous conseille de bien prendre en note les exemples que j'écrirai au tableau, car ils ne figureront pas dans les diapositives.
     </p>
 
     <!-- List of topics covered in the course -->
@@ -49,5 +49,15 @@ related_publications: algebrelineairepourtous, algebrelineaire
             </ul>
         </div>
     </div>
+    <!-- References Section -->
+    <h2 class="mt-5">Pour aller plus loin:</h2>
+    <ul>
+        <li>
+            <strong>Gilbert Strang</strong>, 
+            <a href="/assets/pdf/ref_linear_al.pdf" target="_blank"><em>Introduction to Linear Algebra</em></a>, 
+            Wellesley-Cambridge Press, 5th Edition, 2016.
+        </li>
+    </ul>
 </div>
+
 
