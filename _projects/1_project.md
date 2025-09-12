@@ -49,17 +49,6 @@ related_publications: algebrelineairepourtous, algebrelineaire
             </ul>
         </div>
     </div>
-    <!-- References Section -->
-    <h2 class="mt-5">Références</h2>
-    <ul>
-        <li>
-            <strong>Gilbert Strang</strong>, 
-            <a href="https://math.mit.edu/~gs/linearalgebra/" target="_blank">
-                <em>Introduction to Linear Algebra</em>
-            </a>, 
-            Wellesley-Cambridge Press, 5th Edition, 2016.
-        </li>
-    </ul>
 </div>
 
 
