@@ -2,7 +2,7 @@
 layout: page
 title: L3 électronique
 description: Algèbre linéaire
-img: assets/img/al-khwarizmi.jpg
+img: assets/img/VectorRecap.svg
 importance: 1
 category: Courses
 related_publications: algebrelineairepourtous, algebrelineaire
