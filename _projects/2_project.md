@@ -2,7 +2,7 @@
 layout: page
 title: L3 électronique
 description: Fonctions de la variable complexe
-img: assets/img/cauchy.jpeg
+img: assets/img/analyse_fractale.jpeg
 importance: 1
 category: Courses
 related_publications: 
