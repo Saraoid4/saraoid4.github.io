@@ -31,19 +31,17 @@ related_publications:
     <div class="row text-center mt-5">
         <div class="col-md-6">
             <ul class="list-unstyled">
-             <!--
-                <li><a href="/assets/pdf/analyse_complexe.pdf">Slides - PDF</a></li>
                 <li><a href="/assets/pdf/exemple_calcul_integral.pdf">Exemple Calcul intégral - PDF</a></li>
+                <!--
+                <li><a href="/assets/pdf/analyse_complexe.pdf">Slides - PDF</a></li>
                 -->
             </ul>
         </div>
         <div class="col-md-6">
             <ul class="list-unstyled">
-            
                 <li><a href="/assets/pdf/tf11.pdf">Série TD1 - PDF</a></li>
+                <li><a href="/assets/pdf/TD2_analyse_complexe-2.pdf">Série TD2- PDF</a></li>
                 <!--
-                <li><a href="/assets/pdf/TD1_corr.pdf">Corrigé TD1 - PDF</a></li>
-                <li><a href="/assets/pdf/TD2_analyse_complexe.pdf">Série TD2 avec corrigé- PDF</a></li>
                 <li><a href="/assets/pdf/exam_blanc.pdf">Examen blanc avec corrigé - PDF</a></li>
                 -->
             </ul>
