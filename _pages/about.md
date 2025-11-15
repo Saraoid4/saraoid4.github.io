@@ -23,7 +23,7 @@ I am currently an assitant professor at the [Laboratoire J.-L. Lagrange](https:/
 <!--
 I was a post-doctoral researcher at [ISAE-Supaero](https://www.isae-supaero.fr/fr/) from January 2023 to August 2024, contributing to the [Navigation, Radar and Remote Sensing team](https://www.isae-supaero.fr/fr/recherche/departements/departement-electronique-optronique-et-signal-deos/groupe-de-recherche-navigation/groupe-de-recherche-navir%C2%B2es/). I pursued my doctoral studies at [University of Grenoble-Alpes (UGA)](https://www.univ-grenoble-alpes.fr/), in an interdisciplinary field involving two laboratories [Gipsa-lab](https://www.gipsa-lab.grenoble-inp.fr/) and [ISTerre](https://www.isterre.fr/). Under the guidance of [Olivier Michel](https://www.gipsa-lab.grenoble-inp.fr/user/olivier.michel), [Pierre Comon](https://www.gipsa-lab.grenoble-inp.fr/~pierre.comon/) and [Michel Campillo](https://www.isterre.fr/annuaire/pages-web-du-personnel/michel-campillo/), my doctoral research delved into a diverse range of topics: Higher-order statistics, Machine Learning Algorithms and real-world applications in Geoscience.
 -->
-## Supervision and Collaborations
+#### Supervision and Collaborations
 
-- I am currently co-supervising a PhD student Benjamin Amblard, on the detection of Fast Radio Burts with AI.
+- I am currently co-supervising a PhD student Benjamin Amblard, on the detection of Fast Radio Bursts with AI.
 - I am a member of the [GRAND collaboration](https://grand.cnrs.fr/), a large international project on the detection of astrophysical neutrinos.
