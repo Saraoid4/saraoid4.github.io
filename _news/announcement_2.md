@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the Signal & Image team at J.-L. Lagrange.
+I joined the Signal & Image team at J.-L. Lagrange. :smile:
