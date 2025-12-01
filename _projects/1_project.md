@@ -40,7 +40,7 @@ related_publications: algebrelineairepourtous, algebrelineaire
         <div class="col-md-6">
             <ul class="list-unstyled">
                 <li><a href="/assets/pdf/TD1.pdf">Série TD1 - PDF</a></li>
-                <li><a href="/assets/pdf/SLEEL505_TP1.ipynb">Corrigé TD1 - PDF</a></li>
+                <li><a href="/assets/pdf/SLEEL505_TP1.ipynb">TP1 - PDF</a></li>
                 <!--<li><a href="/assets/pdf/Td2X.pdf">Série TD2 et corrigé - PDF</a></li>
                 <li><a href="/assets/pdf/Corrigé_Examen_blanc.pdf">Examen blanc et corrigé - PDF</a></li>
                 -->
