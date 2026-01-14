@@ -52,13 +52,9 @@ related_publications: algebrelineairepourtous, algebrelineaire
         <div class="col-md-12">
             <h3>TP2: Manipulation et filtrage de signaux audio</h3>
             <ul>
-                <li><a href="/assets/tp2/Codes/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a> — énoncé et structure de code à compléter.</li>
-                <li><a href="/assets/tp2/Codes/utils.py">utils.py</a> — fonctions utilitaires pour le chargement et le traitement des signaux.</li>
-                <li><a href="/assets/tp2/Codes/batterie.wav">batterie.wav</a> — signal de batterie brute.</li>
-                <li><a href="/assets/tp2/Codes/cymbal_500.wav">cymbal_500.wav</a> — enregistrement de cymbale filtré autour de 500 Hz.</li>
-                <li><a href="/assets/tp2/Codes/filt_500.wav">filt_500.wav</a> — signal filtré correspondant.</li>
-                <li><a href="/assets/tp2/Codes/cymbal_3000.wav">cymbal_3000.wav</a> — enregistrement de cymbale filtré autour de 3000 Hz.</li>
-                <li><a href="/assets/tp2/Codes/filt_3000.wav">filt_3000.wav</a> — signal filtré correspondant.</li>
+                <li><a href="/assets/tp2/Codes/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a> </li>
+                <li><a href="/assets/tp2/Codes/utils.py">utils.py</a>utils</li>
+                <li><a href="/assets/tp2/Codes/batterie.wav">batterie.wav</a> batterie.wav</li>
             </ul>
         </div>
     </div>
