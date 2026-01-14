@@ -52,10 +52,11 @@ related_publications: algebrelineairepourtous, algebrelineaire
         <div class="col-md-12">
             <h3>TP2: Manipulation et filtrage de signaux audio</h3>
             <ul>
-                <li><a href="/assets/tp2/Codes/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a> </li>
-                <li><a href="/assets/tp2/Codes/utils.py">utils.py</a>utils</li>
-                <li><a href="/assets/tp2/Codes/batterie.wav">batterie.wav</a> batterie.wav</li>
+                <li><a href="/assets/tp2/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a> </li>
+                <li><a href="/assets/tp2/utils.py">utils.py</a>utils</li>
+                <li><a href="/assets/tp2/batterie.wav">batterie.wav</a> batterie.wav</li>
             </ul>
         </div>
     </div>
 </div>
+git 
