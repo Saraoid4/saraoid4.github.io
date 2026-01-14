@@ -20,10 +20,10 @@ related_publications: algebrelineairepourtous, algebrelineaire
     <!-- List of topics covered in the course -->
     <h2 class="mt-5">Notions abordées dans le cours :</h2>
     <ul>
-        <li><strong>Chapitre 0</strong>: Bases de l'algèbre linéaire</li>
-        <li><strong>Chapitre 1</strong>: Applications linéaires et matrices</li>
-        <li><strong>Chapitre 2</strong>: Système des équations linéaires</li>
-        <li><strong>Chapitre 3</strong>: Espaces Euclidiens</li>
+        <li><strong>Chapitre 0</strong> : Bases de l'algèbre linéaire</li>
+        <li><strong>Chapitre 1</strong> : Applications linéaires et matrices</li>
+        <li><strong>Chapitre 2</strong> : Système des équations linéaires</li>
+        <li><strong>Chapitre 3</strong> : Espaces euclidiens</li>
     </ul>
 
     <!-- PDF Links -->
@@ -34,33 +34,32 @@ related_publications: algebrelineairepourtous, algebrelineaire
                 <li><a href="/assets/pdf/cours1.pdf">Chapitre 1 - PDF</a></li>
                 <li><a href="/assets/pdf/cours3-4.pdf">Chapitre 2 - PDF</a></li>
                 <li><a href="/assets/pdf/cours3-5.pdf">Chapitre 3 - PDF</a></li>
-
             </ul>
         </div>
         <div class="col-md-6">
             <ul class="list-unstyled">
                 <li><a href="/assets/pdf/TD1.pdf">Série TD1 - PDF</a></li>
                 <!-- <li><a href="/assets/pdf/Td2X.pdf">Série TD2 et corrigé - PDF</a></li>
-                <li><a href="/assets/pdf/Corrigé_Examen_blanc.pdf">Examen blanc et corrigé - PDF</a></li>
-                -->
+                <li><a href="/assets/pdf/Corrigé_Examen_blanc.pdf">Examen blanc et corrigé - PDF</a></li> -->
                 <li><a href="/assets/pdf/TD3EUC.pdf">Série TD2 - PDF</a></li>
-                
             </ul>
-        </div> 
-        
+        </div>
     </div>
+
+    <!-- Practical Work Section -->
     <h2 class="mt-5">Travaux pratiques</h2>
-    <ul>
-        <li><a href="/assets/tp2/Codes/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a></li>
-        <li><a href="/assets/tp2/Codes/utils.py">utils.py</a></li>
-        <li><a href="/assets/tp2/Codes/batterie.wav">batterie.wav</a></li>
-        <li><a href="/assets/tp2/Codes/cymbal_500.wav">cymbal_500.wav</a></li>
-        <li><a href="/assets/tp2/Codes/filt_500.wav">filt_500.wav</a></li>
-        <li><a href="/assets/tp2/Codes/cymbal_3000.wav">cymbal_3000.wav</a></li>
-        <li><a href="/assets/tp2/Codes/filt_3000.wav">filt_3000.wav</a></li>
-    </ul>
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <h3>TP2: Manipulation et filtrage de signaux audio</h3>
+            <ul>
+                <li><a href="/assets/tp2/Codes/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a> — énoncé et structure de code à compléter.</li>
+                <li><a href="/assets/tp2/Codes/utils.py">utils.py</a> — fonctions utilitaires pour le chargement et le traitement des signaux.</li>
+                <li><a href="/assets/tp2/Codes/batterie.wav">batterie.wav</a> — signal de batterie brute.</li>
+                <li><a href="/assets/tp2/Codes/cymbal_500.wav">cymbal_500.wav</a> — enregistrement de cymbale filtré autour de 500 Hz.</li>
+                <li><a href="/assets/tp2/Codes/filt_500.wav">filt_500.wav</a> — signal filtré correspondant.</li>
+                <li><a href="/assets/tp2/Codes/cymbal_3000.wav">cymbal_3000.wav</a> — enregistrement de cymbale filtré autour de 3000 Hz.</li>
+                <li><a href="/assets/tp2/Codes/filt_3000.wav">filt_3000.wav</a> — signal filtré correspondant.</li>
+            </ul>
+        </div>
+    </div>
 </div>
-    
-
-
-
