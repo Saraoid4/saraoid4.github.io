@@ -51,13 +51,13 @@ related_publications: algebrelineairepourtous, algebrelineaire
     </div>
     <h2 class="mt-5">Travaux pratiques</h2>
     <ul>
-    <li><a href="/assets/tp2/Codes/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a></li>
-    <li><a href="/assets/tp2/Codes/utils.py">utils.py</a></li>
-    <li><a href="/assets/tp2/Codes/batterie.wav">batterie.wav</a></li>
-    <li><a href="/assets/tp2/Codes/cymbal_500.wav">cymbal_500.wav</a></li>
-    <li><a href="/assets/tp2/Codes/filt_500.wav">filt_500.wav</a></li>
-    <li><a href="/assets/tp2/Codes/cymbal_3000.wav">cymbal_3000.wav</a></li>
-    <li><a href="/assets/tp2/Codes/filt_3000.wav">filt_3000.wav</a></li>
+        <li><a href="/assets/tp2/Codes/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a></li>
+        <li><a href="/assets/tp2/Codes/utils.py">utils.py</a></li>
+        <li><a href="/assets/tp2/Codes/batterie.wav">batterie.wav</a></li>
+        <li><a href="/assets/tp2/Codes/cymbal_500.wav">cymbal_500.wav</a></li>
+        <li><a href="/assets/tp2/Codes/filt_500.wav">filt_500.wav</a></li>
+        <li><a href="/assets/tp2/Codes/cymbal_3000.wav">cymbal_3000.wav</a></li>
+        <li><a href="/assets/tp2/Codes/filt_3000.wav">filt_3000.wav</a></li>
     </ul>
 </div>
     
