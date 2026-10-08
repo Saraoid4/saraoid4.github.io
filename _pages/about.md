@@ -27,4 +27,5 @@ I was a post-doctoral researcher at [ISAE-Supaero](https://www.isae-supaero.fr/f
 <!-- PDF Links -->
 <ul class="list-unstyled">
     <li><a href="/assets/pdf/M2_Internship_Proposal_PnP-2.pdf">M2 Internship: Deep priors for the deconvolution of Electric field with GRAND.</a></li>
+    <li><a href="/assets/pdf/Stage_M2_Fluides_NN.pdf">Stage M2: Accélération de simulations numériques fluides par apprentissage statistique.</a></li>
 </ul>
