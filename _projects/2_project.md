@@ -39,9 +39,7 @@ related_publications:
             <ul class="list-unstyled">
                 <li><a href="/assets/pdf/tf11.pdf">Série TD1 - PDF</a></li>
                 <li><a href="/assets/pdf/TD2_analyse_complexe-2.pdf">Série TD2- PDF</a></li>
-                <!--
-                <li><a href="/assets/pdf/exam_blanc.pdf">Examen blanc avec corrigé - PDF</a></li>
-                -->
+                <li><a href="/assets/pdf/Mini_projet_fractale.pdf">Applications</a></li>
             </ul>
         </div>
     </div>
