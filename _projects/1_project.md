@@ -47,16 +47,15 @@ related_publications: algebrelineairepourtous, algebrelineaire
     </div>
 
     <!-- Practical Work Section -->
-    <h2 class="mt-5">Travaux pratiques</h2>
+    <h2 class="mt-5">Travaux pratiques TNS</h2>
     <div class="row mt-4">
         <div class="col-md-12">
             <h3>TP2: Manipulation et filtrage de signaux audio</h3>
             <ul>
                 <li><a href="/assets/pdf/SLEEL505_TP2.ipynb">Notebook TP2 (.ipynb)</a> </li>
-                <li><a href="/assets/pdf/utils.py">utils.py</a>utils</li>
-                <li><a href="/assets/pdf/batterie.wav">batterie.wav</a> batterie.wav</li>
+                <li><a href="/assets/pdf/utils.py">utils (.py)</a></li>
+                <li><a href="/assets/pdf/batterie.wav">batterie.wav</a></li>
             </ul>
         </div>
     </div>
 </div>
-git 
